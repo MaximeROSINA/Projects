@@ -17,4 +17,12 @@ For our data analysis final project, we chose to work on the Wine Quality datase
 
 The aim of this project will be to treat and analyse this dataset in order to extract and identify the main objective criteria that makes a wine taste good.
 
-- [View in Github](https://github.com/MaximeROSINA/Projects/blob/main/Quality%20Wine%20Analysis/WineQualityProject%20(7).ipynb)
+- [View in Github](https://github.com/MaximeROSINA/Projects/tree/main/Quality%20Wine%20Analysis)
+
+
+## COVID-19 Analysis and Prediction - Artificial Intelligence
+*Python - Pandas, Matplotlib, seaborn, scikit-learn*
+
+After numerous months affected by a sanitary crisis, the epidemiological situation is still evolving. I use this dataset which is daily updated. I downloaded my dataset December, 11, 2020. The aim of this project is to apply artificial intelligence methods to this dataset in order to make analyzes and predictions to help the society to better understand the spread of the COVID-19 infection.
+
+- [View in Github](https://github.com/MaximeROSINA/Projects/tree/main/covid19/covid19-main)
