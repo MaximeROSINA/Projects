@@ -10,7 +10,7 @@ The aim of this project is to apply artificial intelligence methods to this data
 ### III - Machine Learning
 ### IV - Improving the results and Theoretical formalism
 
--
+--
 
 In this repo you can find the : 
 - [Jupyter Notebook](https://github.com/MaximeROSINA/Projects/blob/main/covid19/covid19-main/IA_Project%20(2).ipynb)
