@@ -11,6 +11,4 @@ The aim of this project is to apply artificial intelligence methods to this data
 ### IV - Improving the results and Theoretical formalism
 ### Conclusion	
 
-### Documents
-
 You can find a jupyter notebook document, the report linked, the dataset (zip) as well as the subject in this github repo.
