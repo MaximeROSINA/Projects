@@ -11,4 +11,8 @@ The aim of this project is to apply artificial intelligence methods to this data
 ### IV - Improving the results and Theoretical formalism
 ### Conclusion	
 
-You can find a jupyter notebook document, the report linked, the dataset (zip) as well as the subject in this github repo.
+In this repo you can find the : 
+- [Jupyter Notebook](https://github.com/MaximeROSINA/Projects/blob/main/covid19/covid19-main/COVID-19%20Infection%20Analysis%20and%20Prediction%20(3).pdf)
+- [Report](https://github.com/MaximeROSINA/Projects/blob/main/covid19/covid19-main/Project2021.pdf)
+- [Dataset](https://github.com/MaximeROSINA/Projects/blob/main/covid19/covid19-main/latestdata.zip)
+- [Subject](https://github.com/MaximeROSINA/Projects/blob/main/covid19/covid19-main/Project2021.pdf)
