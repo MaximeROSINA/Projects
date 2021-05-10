@@ -10,6 +10,8 @@ The aim of this project is to apply artificial intelligence methods to this data
 ### III - Machine Learning
 ### IV - Improving the results and Theoretical formalism
 
+-
+
 In this repo you can find the : 
 - [Jupyter Notebook](https://github.com/MaximeROSINA/Projects/blob/main/covid19/covid19-main/IA_Project%20(2).ipynb)
 - [Report](https://github.com/MaximeROSINA/Projects/blob/main/covid19/covid19-main/COVID-19%20Infection%20Analysis%20and%20Prediction%20(3).pdf)
