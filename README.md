@@ -1,7 +1,7 @@
 # Projects
 Folder containing various Tech projects
 
-## Real Estate for Company Data projects exploratory analysis and visualization
+## Real Estate for Company - Data exploratory analysis and visualization
 *SQL, Google Sheets*
 
 Following my internship at [Spliit](https://www.spliit.fr/), a French startup reinventing real estate for company with digital tools, I developed a great interest in real estate Data.
