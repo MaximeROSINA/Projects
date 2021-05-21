@@ -7,8 +7,11 @@ Folder containing various Tech projects
 Following my internship at [Spliit](https://www.spliit.fr/), a French startup reinventing real estate for company with digital tools, I developed a great interest in real estate Data.
 
 ### Mapping
+Just after my arrival at Spliit, I started playing with data and making visualizations. I made some maps using D3js to better understand the distribution of new offers and transactions across the different districts of Paris.
+- [View in Github](https://github.com/MaximeROSINA/Projects/tree/main/Real%20Estate%20-%20Mapping)
 
 ### Article redaction
+The first half of 2021 is very important in terms of data to understand whether the sector is recovering from the 2020 covid crisis. To understand this I have created several visualizations and their analysis which are recorded in an article that you can find on the Spliit website or with the link below.
 - [View the article](https://www.spliit.fr/analyse-marche-immobilier-entreprise-t1-2021/)
 
 ## COVID-19 Analysis and Prediction - Artificial Intelligence
