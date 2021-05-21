@@ -1,6 +1,15 @@
 # Projects
 Folder containing various Tech projects
 
+## Real Estate for Company Data projects exploratory analysis and visualization
+*SQL, Google Sheets*
+
+Following my internship at [Spliit](https://www.spliit.fr/), a French startup reinventing real estate for company with digital tools, I developed a great interest in real estate Data.
+
+### Mapping
+
+### Article redaction
+- [View the article](https://www.spliit.fr/analyse-marche-immobilier-entreprise-t1-2021/)
 
 ## COVID-19 Analysis and Prediction - Artificial Intelligence
 *Python - Pandas, Matplotlib, seaborn, scikit-learn*
