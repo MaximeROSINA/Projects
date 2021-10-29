@@ -39,7 +39,7 @@ The goal of the project being to perform a study on Apple Store applications to 
 
 - [View in Github](https://github.com/MaximeROSINA/Projects/tree/main/smartup)
 
-## Tech for Good - Loby des consciences
+## Loby des consciences - Tech for Good
 *Adobe XD, Personae, Empathy card, User profile*
 
 The goal of the project being to help an association, [le Lobby des Consciences](https://lobbydesconsciences.org/), to gamify their application. The aim of the association is to accelerate the ecological transition by raising public awareness of the issues related to climate change and by formulating requests from a group of experts to political and economic decision-makers.
